@@ -313,3 +313,4 @@ Aave
 // testing ci
 Omnibtc
 Owlto
+Gbps
