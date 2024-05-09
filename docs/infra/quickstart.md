@@ -13,7 +13,7 @@ head:
   - [Docker Compose](https://docs.docker.com/compose/install/)
   - [Docker](https://docs.docker.com/get-docker/)
 
-## Running a ZkSync Node Locally
+## Running a zkSync Node Locally
 
 ### Starting the Node
 
