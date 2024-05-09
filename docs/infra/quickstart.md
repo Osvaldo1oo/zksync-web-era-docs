@@ -5,7 +5,7 @@ head:
       content: Quickstart | zkSync Docs
 ---
 
-# Quick Start Guide for zkSync External Node
+# Quick Start Guide for zkSync Node
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ head:
   - [Docker Compose](https://docs.docker.com/compose/install/)
   - [Docker](https://docs.docker.com/get-docker/)
 
-## Running a ZkSync External Node Locally
+## Running a ZkSync Node Locally
 
 ### Starting the Node
 
@@ -69,8 +69,8 @@ The following are minimal requirements:
 - **CPU:** 32-core
 - **RAM:** 64GB
 - **Storage:** SSD (NVME recommended)
-  - **Sepolia Testnet:** 10GB for EN + 50GB for PostgreSQL
-  - **Mainnet:** 3TB for EN + 7TB for PostgreSQL
+  - **Sepolia Testnet:** 10GB for Node + 50GB for PostgreSQL
+  - **Mainnet:** 3TB for Node + 7TB for PostgreSQL
 - **Network:** 100 Mbps (1 Gbps+ recommended)
 
 ## Advanced Setup
