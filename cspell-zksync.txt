@@ -314,3 +314,5 @@ Aave
 Omnibtc
 Owlto
 Gbps
+Gelato
+VRFs
